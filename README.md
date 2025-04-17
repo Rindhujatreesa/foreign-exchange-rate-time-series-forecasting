@@ -32,7 +32,7 @@ We did the following methods to make the datasets stationary -
 1. Seasonal Decomposition
 2. Differencing
 
-The datasets were confirmed to stationary using teh following methods - 
+The datasets were confirmed to stationary using the following methods - 
 
 1. Augmented Dickey-Fuller Test
 2. Auto-correlation and Partially Auto-correlation Function
